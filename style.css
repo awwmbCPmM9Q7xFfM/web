@@ -3,8 +3,6 @@ body {
   background-color: black;
   font-family:"Verdana", "sans-serif";
   font-style: normal;
-  padding-left: 60px;
-  padding-right: 60px;
 }
 h1 {
   color: #ef9422;
@@ -22,5 +20,7 @@ section {
 	font-size: small;
 	border-style: solid;
 	border-color: #ef9422;	
+	  margin-left: 20%;
+  margin-right: 20%;
 }
 

@@ -1,0 +1,21 @@
+<html>
+<body>
+<link rel="stylesheet" href="style.css">
+<div class="box">
+<h3>Table of Contents</h3>
+<ol> <h4>
+  <li><a href="site.html">Homepage</a></li>
+  <li><a href="site-a.html">The World Press Freedom Index</a></li>
+  <li><a href="site-b.html">Internet Freedom in countries</a></li>
+  <li><a href="site-c.html">Internet Usage across countries</a></li>
+</h4></ol> </div>
+
+<head><title> Internet Usage across countries </title> </head>
+<h1> Internet Usage across countries </h1>
+<p> The publication Our World in Data focuses on publishing statistics and data on various topics, such as <a href="https://ourworldindata.org/internet" target="_blank">this article about internet usage on different countries.</a> This shows data about the percentage of the population that have internet access on almost every country, over the span of 1990-2017. It also shows how much the amount of internet access has increased over the years, and includes other data such as broadband access, mobile phone access, and social media access. For example, this chart at the bottom shows countries listed by the total number of internet users in that country.  </p>
+<img src="chartinverted.png" alt="chart" width="600" height="700">
+
+  
+  
+</body>
+</html>

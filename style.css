@@ -1,3 +1,4 @@
+
 body {
   text-align: center;
   background-color: black;
@@ -20,7 +21,41 @@ section {
 	font-size: small;
 	border-style: solid;
 	border-color: #ef9422;	
-	  margin-left: 20%;
-  margin-right: 20%;
+	  margin-left: 35%;
+  margin-right: 35%;
+} 
+
+
+
+.box {
+	height: 250px;
+	float: left;
+	width: 200px;
+	box-sizing: border-box;
+	color: #ef9422;
+	border: 5px solid purple;
+	margin: 20px;
+
 }
 
+
+
+a:link {
+  color: #87CEEB;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ffff00;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #66ccff;
+  text-decoration: underline;
+}
+
+a:active {
+
+  text-decoration: none;
+} 

@@ -1,0 +1,41 @@
+<html>
+<body>
+<link rel="stylesheet" href="style.css">
+<head><title> The World Press Freedom Index </title> </head>
+<div class="box">
+<h3>Table of Contents</h3>
+<ol> <h4>
+  <li><a href="site.html">Homepage</a></li>
+  <li><a href="site-a.html">The World Press Freedom Index</a></li>
+  <li><a href="site-b.html">Internet Freedom in countries</a></li>
+  <li><a href="site-c.html">Internet Usage across countries</a></li>
+</h4></ol> </div>
+<h1> The World Press Freedom Index </h1>
+ <p> The World Press Freedom Index is a list of 180 countries ranked by the level of freedom that the country gives to journalists, based off of data from the organization Reporters Without Borders. This list is published every year since 2002. While this list ranks freedom among journalists, this can also apply to normal citizens that live in these countries. Results are determined by a questionnaire that is given to the professionals residing in the countries (if they can complete it) which contains about 87 questions and availible in 20 languages, as well as documenting every journalist abuse/violence occuring in each country and the intensity. Countries that are ranked the first on the list are among the freest countries, with freely availible information availible to the government. Countries that are ranked the lowest are among the least free countries, with abuse among journalist occuring more than usual and containing heavily censored press.
+  The 5 most free countries are</p>
+  <section>
+  <ul>
+  <li>1.Norway</li>
+  <li>2.Finland</li>
+  <li>3.Denmark</li>
+  <li>4.Sweden</li>
+  <li>5.Netherlands</li>
+</ul>
+</section>  
+<p>In the other hand, the 5 least free countries are </p> 
+<section>
+  <ul>
+  <li>180. North Korea</li>
+  <li>179. Turkmenistan</li>
+  <li>178. Eritrea</li>
+  <li>177. China</li>
+  <li>176. Dijbouti</li>
+</ul>  
+</section>
+<p>You can also <a href="https://rsf.org/en/ranking_table" target="_blank">visit </a> the website yourself and see more of the information.</p>
+
+
+  
+  
+</body>
+</html>

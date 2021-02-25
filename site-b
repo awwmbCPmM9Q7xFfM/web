@@ -1,0 +1,30 @@
+<html>
+<body>
+<link rel="stylesheet" href="style.css">
+<head><title> Internet Freedom in countries </title> </head>
+<div class="box">
+<h3>Table of Contents</h3>
+<ol> <h4>
+  <li><a href="site.html">Homepage</a></li>
+  <li><a href="site-a.html">The World Press Freedom Index</a></li>
+  <li><a href="site-b.html">Internet Freedom in countries</a></li>
+  <li><a href="site-c.html">Internet Usage across countries</a></li>
+</h4></ol> </div>
+
+<h1> Internet Freedom in countries </h1>
+
+<p> Similar to the World Press Freedom Index, the organization Freedom House lists countries based on the internet freedom, or how easily citizens can freely access information on the internet. It also asseses if governments block portions of the internet, which prevent others in the country to view the content, and how your internet actions can cause legal action against you. There are also lists that sort countries based on global freedom and democracy. You can <a href="https://freedomhouse.org/countries/freedom-net/scores?sort=desc&order=Country" target="_blank">see the list </a> for yourself.   </p>
+<p> The Freedom House also has a table that shows the methods of how differnt countries control and montor their internet and the citizens. These controls can be </p>
+<section>
+  <ul>
+  <li>blocking social media platforms</li>
+  <li>blocking content against government's views</li>
+  <li>manipulating online content to push a specific idea</li>
+  <li>punishments for internet actions/posting specific content</li>
+  <li>increasing surveilence and decreasing internet anomymity</li>
+</ul>
+</section>
+<p>Countries with the most internet freedom use the least control over the citizens through internet such as Austrialia and Iceland, while countries with the least internet freedom, such as China and Cuba, use most, if not all of these controls.The table is availible <a href="https://freedomhouse.org/report/freedom-net/2020/key-internet-controls" target="_blank">here. </a> </p>  
+ 
+</body>
+</html>
